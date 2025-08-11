@@ -42,8 +42,3 @@ I regularly update this repository with:
 Install dependencies:  
 ```bash
 pip install -r requirements.txt
-Example datasets are included or loaded from popular sources to demonstrate how each algorithm works in practice.
-This is a living repository — I regularly update it with new algorithms, optimizations, and experiments.
-It can be useful for beginners learning ML fundamentals, as well as for experienced users looking for quick reference code.
-Feel free to fork, modify, and use the code in your own projects under the terms of the license.
-Contributions and suggestions are welcome to further improve this library.
