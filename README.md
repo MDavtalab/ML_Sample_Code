@@ -42,3 +42,21 @@ I regularly update this repository with:
 Install dependencies:  
 ```bash
 pip install -r requirements.txt
+```
+---
+## 🤝 Contributing
+
+Feel free to **fork**, modify, and use the code in your own projects.  
+Pull requests and suggestions are always welcome to help improve this library.  
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-YourFeatureName`)  
+3. Commit your changes (`git commit -m 'Add some feature'`)  
+4. Push to the branch (`git push origin feature-YourFeatureName`)  
+5. Open a Pull Request  
+
+
+---
+
+If you want, I can also **add a GitHub-style table** comparing each algorithm with the dataset used, complexity, and type so your README looks even more professional. That would make your repo look like a mini ML reference hub.
+
