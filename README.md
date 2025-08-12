@@ -39,8 +39,7 @@ I regularly update this repository with:
 - scikit-learn  
 - Matplotlib / Seaborn
 - SnapML { Python 3.7–3.10 on Windows, 3.11 on Linux,
-           NumPy to a 1.x version "pip install "numpy<2"
--   }  
+           NumPy to a 1.x version "pip install "numpy<2" }  
 
 Install dependencies:  
 ```bash
