@@ -1,6 +1,7 @@
-numpy
+numpy<2
 pandas
 scikit-learn
 matplotlib
 seaborn
 xgboost
+snapml
